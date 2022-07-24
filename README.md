@@ -94,6 +94,8 @@ This repository will contain examples on using R, Python, and other open-source 
 -  ArcGIS Online (Free)
 -  Mapbox
 -  R Markdown, Flexdashboard, and Shiny
+  
+</details>
 
 <details>
   <summary><b>Reproducible Reports</b></summary>
@@ -101,8 +103,6 @@ This repository will contain examples on using R, Python, and other open-source 
 -  Scripting GIS Reports in R
 -  Iterative Report Generation in R
 -  Iterating Output Dataset Generation in R
-  
-</details>
   
 </details>
 
