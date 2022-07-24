@@ -60,6 +60,7 @@ This repository will contain examples on using R, Python, and other open-source 
 
 -  An introduction to spatial statistics and fundamental assumptions
 -  Autocorrelation
+-  Regression
 -  Point Patterns
 -  Interpolation 
   
@@ -71,6 +72,7 @@ This repository will contain examples on using R, Python, and other open-source 
 -  Image segmentation and classification
 -  Neural Networks
 -  Prediction/Forecasting
+-  Data Mining
 
 </details>
 
