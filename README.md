@@ -6,7 +6,7 @@ This repository will contain examples on using R, Python, and other open-source 
 ## Basics
 
 <details>
-  ><summary><b>Data Import and Export</b></summary>
+  ><summary><b>Data Import, Export, and Utilizing Web APIs</b></summary>
 
 -  Importing the variety of common spatial data formats into R
   -  Vector vs Raster in R
